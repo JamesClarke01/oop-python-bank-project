@@ -7,7 +7,7 @@
 **Examiner Score:** 88.33%
 
 **Description:** A python based bank management system utilising Object Oriented concepts and data storage in files.
-**Skills Learned/Used:**
+**Skills Learned/Used:**  
 1. Object Oriented Programming
 2. Use of the JSON format to store and manage data
 3. Python Programming
