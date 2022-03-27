@@ -4,7 +4,7 @@
 **DATE COMPLETED: 2021-12-18**
 
 **Module:** Object Oriented Programming CMPU2016: 2021-22, TU Dublin  
-**Examiner Score:** 88.33%
+**Examiner Score:** 88%
 
 **Description:** A python based bank management system utilising Object Oriented concepts and data storage in files.
 **Skills Learned/Used:**  
